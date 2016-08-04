@@ -1,0 +1,51 @@
+.FormTitle {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	color: #333;
+}
+.FormLabelText {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #666;
+}
+.TableForm {
+	border-collapse:collapse;
+	border:1px solid #333;
+	background-color: #F8F8F8;
+	-webkit-border-radius: 5px 10px;  /* Safari  */
+	-moz-border-radius: 5px 10px;     /* Firefox */
+}
+
+.boton{
+	text-align:center;
+	text-decoration: none;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+	display:inline-block;
+	color: #FFF;
+	background: #7F8C8D;
+	white-space: nowrap;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+}
+      
+.azul{
+  background: #3498DB;
+}
+
+.azul:hover{
+  background: #2980B9;
+}
